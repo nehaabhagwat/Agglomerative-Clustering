@@ -1,4 +1,4 @@
-# flags.py
+# clustering_flags.py
 # Author: Neha Bhagwat
 # Program to extract features for flags and cluster them using single link hierarchical clustering
 # This part can be implemented using the main assignment program. But this separate
