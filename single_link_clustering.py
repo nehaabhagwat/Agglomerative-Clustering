@@ -1,7 +1,6 @@
-# neha_bhagwat_assignment3.py
-# Author: Neha Bhagwat (SJSU ID: 012412140)
+# single_link_clusstering.py
+# Author: Neha Bhagwat 
 # Last updated: October 17, 2017
-# Program for assignment 3 of CS256 - Section 2
 #
 # 
 #
